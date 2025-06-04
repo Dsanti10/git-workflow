@@ -1,3 +1,3 @@
 # git-workflow
 
-To improve is to change. This is change.
+All that you change, changes you.
